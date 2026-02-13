@@ -1,0 +1,11 @@
+{
+  "buildCommand": "cd news-frontend && npm install && npm run build",
+  "outputDirectory": "news-frontend/build",
+  "framework": null,
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
