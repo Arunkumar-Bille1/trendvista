@@ -1,2 +1,2 @@
-# NewsPulse_Analyzer_team2
-infosys_spring board
+# TrendVista (NewsPulse Analyzer Team 2)
+Infosys Springboard Project
