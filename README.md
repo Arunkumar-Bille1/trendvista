@@ -1,0 +1,2 @@
+# trendvista
+news pulse analyzer
