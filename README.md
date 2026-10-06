@@ -733,8 +733,6 @@ TrendVista/
 └── README.md
 ```
 
-Do **not** upload real API keys, passwords, JWT secrets, database passwords, or other credentials.
-
 ---
 
 ## Testing
